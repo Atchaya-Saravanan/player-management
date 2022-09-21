@@ -6,6 +6,8 @@
 
 - When a search is done, results are displayed with player information 
 
+- The data is handled using JSON Server that is hosted in [my GitHub repository](https://github.com/Atchaya-Saravanan/mockjson).
+
 - When no players are found, "There are no players. Please add one" error message is displayed.
 
 Visit the website here: [Player Management System]( https://atchaya-saravanan.github.io/player-management/)
